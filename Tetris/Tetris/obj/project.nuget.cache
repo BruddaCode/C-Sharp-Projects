@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "yi/qGF8/hXZryZZHwMMFvHz5jxmn3HAcNpv2W5D6AbIjFRD3npjTWeN/+IutjIF6iPUlJVxeF2OC4XnHg0nkvA==",
+  "success": true,
+  "projectFilePath": "/mnt/ssd/schoolwerk mbo4/C#/Tetris/Tetris/Tetris.csproj",
+  "expectedPackageFiles": [
+    "/home/fabio/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.21/microsoft.netcore.app.host.linux-x64.6.0.21.nupkg.sha512"
+  ],
+  "logs": []
+}

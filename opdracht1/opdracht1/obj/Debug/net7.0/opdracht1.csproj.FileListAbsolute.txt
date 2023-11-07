@@ -1,0 +1,15 @@
+/mnt/ssd/schoolwerk mbo4/C#/opdracht1/opdracht1/bin/Debug/net7.0/opdracht1
+/mnt/ssd/schoolwerk mbo4/C#/opdracht1/opdracht1/bin/Debug/net7.0/opdracht1.deps.json
+/mnt/ssd/schoolwerk mbo4/C#/opdracht1/opdracht1/bin/Debug/net7.0/opdracht1.runtimeconfig.json
+/mnt/ssd/schoolwerk mbo4/C#/opdracht1/opdracht1/bin/Debug/net7.0/opdracht1.dll
+/mnt/ssd/schoolwerk mbo4/C#/opdracht1/opdracht1/bin/Debug/net7.0/opdracht1.pdb
+/mnt/ssd/schoolwerk mbo4/C#/opdracht1/opdracht1/obj/Debug/net7.0/opdracht1.csproj.AssemblyReference.cache
+/mnt/ssd/schoolwerk mbo4/C#/opdracht1/opdracht1/obj/Debug/net7.0/opdracht1.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/ssd/schoolwerk mbo4/C#/opdracht1/opdracht1/obj/Debug/net7.0/opdracht1.AssemblyInfoInputs.cache
+/mnt/ssd/schoolwerk mbo4/C#/opdracht1/opdracht1/obj/Debug/net7.0/opdracht1.AssemblyInfo.cs
+/mnt/ssd/schoolwerk mbo4/C#/opdracht1/opdracht1/obj/Debug/net7.0/opdracht1.csproj.CoreCompileInputs.cache
+/mnt/ssd/schoolwerk mbo4/C#/opdracht1/opdracht1/obj/Debug/net7.0/opdracht1.dll
+/mnt/ssd/schoolwerk mbo4/C#/opdracht1/opdracht1/obj/Debug/net7.0/refint/opdracht1.dll
+/mnt/ssd/schoolwerk mbo4/C#/opdracht1/opdracht1/obj/Debug/net7.0/opdracht1.pdb
+/mnt/ssd/schoolwerk mbo4/C#/opdracht1/opdracht1/obj/Debug/net7.0/opdracht1.genruntimeconfig.cache
+/mnt/ssd/schoolwerk mbo4/C#/opdracht1/opdracht1/obj/Debug/net7.0/ref/opdracht1.dll

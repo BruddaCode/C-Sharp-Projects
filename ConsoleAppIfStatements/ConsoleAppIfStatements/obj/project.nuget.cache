@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "g7i41g0wKtfhp2Ge80JghuJqaG75f1Xg7PJNR+95AgIbY3VjyKscwftCSMgOCBlMYyho2OPTtleF3MNJ0lLIvw==",
+  "success": true,
+  "projectFilePath": "/mnt/ssd/schoolwerk mbo4/C#/ConsoleAppIfStatements/ConsoleAppIfStatements/ConsoleAppIfStatements.csproj",
+  "expectedPackageFiles": [
+    "/home/fabio/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.21/microsoft.netcore.app.host.linux-x64.6.0.21.nupkg.sha512"
+  ],
+  "logs": []
+}

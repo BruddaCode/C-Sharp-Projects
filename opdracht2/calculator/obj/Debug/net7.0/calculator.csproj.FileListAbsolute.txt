@@ -1,0 +1,15 @@
+/mnt/ssd/schoolwerk mbo4/C#/opdracht2/calculator/bin/Debug/net7.0/calculator
+/mnt/ssd/schoolwerk mbo4/C#/opdracht2/calculator/bin/Debug/net7.0/calculator.deps.json
+/mnt/ssd/schoolwerk mbo4/C#/opdracht2/calculator/bin/Debug/net7.0/calculator.runtimeconfig.json
+/mnt/ssd/schoolwerk mbo4/C#/opdracht2/calculator/bin/Debug/net7.0/calculator.dll
+/mnt/ssd/schoolwerk mbo4/C#/opdracht2/calculator/bin/Debug/net7.0/calculator.pdb
+/mnt/ssd/schoolwerk mbo4/C#/opdracht2/calculator/obj/Debug/net7.0/calculator.csproj.AssemblyReference.cache
+/mnt/ssd/schoolwerk mbo4/C#/opdracht2/calculator/obj/Debug/net7.0/calculator.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/ssd/schoolwerk mbo4/C#/opdracht2/calculator/obj/Debug/net7.0/calculator.AssemblyInfoInputs.cache
+/mnt/ssd/schoolwerk mbo4/C#/opdracht2/calculator/obj/Debug/net7.0/calculator.AssemblyInfo.cs
+/mnt/ssd/schoolwerk mbo4/C#/opdracht2/calculator/obj/Debug/net7.0/calculator.csproj.CoreCompileInputs.cache
+/mnt/ssd/schoolwerk mbo4/C#/opdracht2/calculator/obj/Debug/net7.0/calculator.dll
+/mnt/ssd/schoolwerk mbo4/C#/opdracht2/calculator/obj/Debug/net7.0/refint/calculator.dll
+/mnt/ssd/schoolwerk mbo4/C#/opdracht2/calculator/obj/Debug/net7.0/calculator.pdb
+/mnt/ssd/schoolwerk mbo4/C#/opdracht2/calculator/obj/Debug/net7.0/calculator.genruntimeconfig.cache
+/mnt/ssd/schoolwerk mbo4/C#/opdracht2/calculator/obj/Debug/net7.0/ref/calculator.dll

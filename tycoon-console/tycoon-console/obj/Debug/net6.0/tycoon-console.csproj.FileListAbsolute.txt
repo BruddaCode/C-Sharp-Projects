@@ -1,0 +1,15 @@
+/mnt/ssd/schoolwerk mbo4/C#/tycoon-console/tycoon-console/bin/Debug/net6.0/tycoon-console
+/mnt/ssd/schoolwerk mbo4/C#/tycoon-console/tycoon-console/bin/Debug/net6.0/tycoon-console.deps.json
+/mnt/ssd/schoolwerk mbo4/C#/tycoon-console/tycoon-console/bin/Debug/net6.0/tycoon-console.runtimeconfig.json
+/mnt/ssd/schoolwerk mbo4/C#/tycoon-console/tycoon-console/bin/Debug/net6.0/tycoon-console.dll
+/mnt/ssd/schoolwerk mbo4/C#/tycoon-console/tycoon-console/bin/Debug/net6.0/tycoon-console.pdb
+/mnt/ssd/schoolwerk mbo4/C#/tycoon-console/tycoon-console/obj/Debug/net6.0/tycoon-console.csproj.AssemblyReference.cache
+/mnt/ssd/schoolwerk mbo4/C#/tycoon-console/tycoon-console/obj/Debug/net6.0/tycoon-console.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/ssd/schoolwerk mbo4/C#/tycoon-console/tycoon-console/obj/Debug/net6.0/tycoon-console.AssemblyInfoInputs.cache
+/mnt/ssd/schoolwerk mbo4/C#/tycoon-console/tycoon-console/obj/Debug/net6.0/tycoon-console.AssemblyInfo.cs
+/mnt/ssd/schoolwerk mbo4/C#/tycoon-console/tycoon-console/obj/Debug/net6.0/tycoon-console.csproj.CoreCompileInputs.cache
+/mnt/ssd/schoolwerk mbo4/C#/tycoon-console/tycoon-console/obj/Debug/net6.0/tycoon-console.dll
+/mnt/ssd/schoolwerk mbo4/C#/tycoon-console/tycoon-console/obj/Debug/net6.0/refint/tycoon-console.dll
+/mnt/ssd/schoolwerk mbo4/C#/tycoon-console/tycoon-console/obj/Debug/net6.0/tycoon-console.pdb
+/mnt/ssd/schoolwerk mbo4/C#/tycoon-console/tycoon-console/obj/Debug/net6.0/tycoon-console.genruntimeconfig.cache
+/mnt/ssd/schoolwerk mbo4/C#/tycoon-console/tycoon-console/obj/Debug/net6.0/ref/tycoon-console.dll

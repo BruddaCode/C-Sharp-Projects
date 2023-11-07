@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hWbx+yNtGjq3tlCwiAsCqsm5aWjEgek0qTb90QynUVZ3cnh4p6wtaitCPYkl97hhb6Y+aVuCS4qjj9wmYN2anQ==",
+  "success": true,
+  "projectFilePath": "/mnt/ssd/schoolwerk mbo4/C#/CookieClicker/CookieClicker/CookieClicker.csproj",
+  "expectedPackageFiles": [
+    "/home/fabio/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.21/microsoft.netcore.app.host.linux-x64.6.0.21.nupkg.sha512"
+  ],
+  "logs": []
+}

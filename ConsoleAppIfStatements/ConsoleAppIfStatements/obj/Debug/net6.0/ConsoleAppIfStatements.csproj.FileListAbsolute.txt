@@ -1,0 +1,15 @@
+/mnt/ssd/schoolwerk mbo4/C#/ConsoleAppIfStatements/ConsoleAppIfStatements/bin/Debug/net6.0/ConsoleAppIfStatements
+/mnt/ssd/schoolwerk mbo4/C#/ConsoleAppIfStatements/ConsoleAppIfStatements/bin/Debug/net6.0/ConsoleAppIfStatements.deps.json
+/mnt/ssd/schoolwerk mbo4/C#/ConsoleAppIfStatements/ConsoleAppIfStatements/bin/Debug/net6.0/ConsoleAppIfStatements.runtimeconfig.json
+/mnt/ssd/schoolwerk mbo4/C#/ConsoleAppIfStatements/ConsoleAppIfStatements/bin/Debug/net6.0/ConsoleAppIfStatements.dll
+/mnt/ssd/schoolwerk mbo4/C#/ConsoleAppIfStatements/ConsoleAppIfStatements/bin/Debug/net6.0/ConsoleAppIfStatements.pdb
+/mnt/ssd/schoolwerk mbo4/C#/ConsoleAppIfStatements/ConsoleAppIfStatements/obj/Debug/net6.0/ConsoleAppIfStatements.csproj.AssemblyReference.cache
+/mnt/ssd/schoolwerk mbo4/C#/ConsoleAppIfStatements/ConsoleAppIfStatements/obj/Debug/net6.0/ConsoleAppIfStatements.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/ssd/schoolwerk mbo4/C#/ConsoleAppIfStatements/ConsoleAppIfStatements/obj/Debug/net6.0/ConsoleAppIfStatements.AssemblyInfoInputs.cache
+/mnt/ssd/schoolwerk mbo4/C#/ConsoleAppIfStatements/ConsoleAppIfStatements/obj/Debug/net6.0/ConsoleAppIfStatements.AssemblyInfo.cs
+/mnt/ssd/schoolwerk mbo4/C#/ConsoleAppIfStatements/ConsoleAppIfStatements/obj/Debug/net6.0/ConsoleAppIfStatements.csproj.CoreCompileInputs.cache
+/mnt/ssd/schoolwerk mbo4/C#/ConsoleAppIfStatements/ConsoleAppIfStatements/obj/Debug/net6.0/ConsoleAppIfStatements.dll
+/mnt/ssd/schoolwerk mbo4/C#/ConsoleAppIfStatements/ConsoleAppIfStatements/obj/Debug/net6.0/refint/ConsoleAppIfStatements.dll
+/mnt/ssd/schoolwerk mbo4/C#/ConsoleAppIfStatements/ConsoleAppIfStatements/obj/Debug/net6.0/ConsoleAppIfStatements.pdb
+/mnt/ssd/schoolwerk mbo4/C#/ConsoleAppIfStatements/ConsoleAppIfStatements/obj/Debug/net6.0/ConsoleAppIfStatements.genruntimeconfig.cache
+/mnt/ssd/schoolwerk mbo4/C#/ConsoleAppIfStatements/ConsoleAppIfStatements/obj/Debug/net6.0/ref/ConsoleAppIfStatements.dll

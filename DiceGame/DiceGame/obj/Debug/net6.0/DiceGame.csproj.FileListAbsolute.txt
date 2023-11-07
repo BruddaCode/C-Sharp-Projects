@@ -1,0 +1,15 @@
+/mnt/ssd/schoolwerk mbo4/C#/DiceGame/DiceGame/bin/Debug/net6.0/DiceGame
+/mnt/ssd/schoolwerk mbo4/C#/DiceGame/DiceGame/bin/Debug/net6.0/DiceGame.deps.json
+/mnt/ssd/schoolwerk mbo4/C#/DiceGame/DiceGame/bin/Debug/net6.0/DiceGame.runtimeconfig.json
+/mnt/ssd/schoolwerk mbo4/C#/DiceGame/DiceGame/bin/Debug/net6.0/DiceGame.dll
+/mnt/ssd/schoolwerk mbo4/C#/DiceGame/DiceGame/bin/Debug/net6.0/DiceGame.pdb
+/mnt/ssd/schoolwerk mbo4/C#/DiceGame/DiceGame/obj/Debug/net6.0/DiceGame.csproj.AssemblyReference.cache
+/mnt/ssd/schoolwerk mbo4/C#/DiceGame/DiceGame/obj/Debug/net6.0/DiceGame.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/ssd/schoolwerk mbo4/C#/DiceGame/DiceGame/obj/Debug/net6.0/DiceGame.AssemblyInfoInputs.cache
+/mnt/ssd/schoolwerk mbo4/C#/DiceGame/DiceGame/obj/Debug/net6.0/DiceGame.AssemblyInfo.cs
+/mnt/ssd/schoolwerk mbo4/C#/DiceGame/DiceGame/obj/Debug/net6.0/DiceGame.csproj.CoreCompileInputs.cache
+/mnt/ssd/schoolwerk mbo4/C#/DiceGame/DiceGame/obj/Debug/net6.0/DiceGame.dll
+/mnt/ssd/schoolwerk mbo4/C#/DiceGame/DiceGame/obj/Debug/net6.0/refint/DiceGame.dll
+/mnt/ssd/schoolwerk mbo4/C#/DiceGame/DiceGame/obj/Debug/net6.0/DiceGame.pdb
+/mnt/ssd/schoolwerk mbo4/C#/DiceGame/DiceGame/obj/Debug/net6.0/DiceGame.genruntimeconfig.cache
+/mnt/ssd/schoolwerk mbo4/C#/DiceGame/DiceGame/obj/Debug/net6.0/ref/DiceGame.dll

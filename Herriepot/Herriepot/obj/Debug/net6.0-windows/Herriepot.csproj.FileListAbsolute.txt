@@ -1,0 +1,16 @@
+D:\schoolwerk mbo4\C#\Herriepot\Herriepot\bin\Debug\net6.0-windows\Herriepot.exe
+D:\schoolwerk mbo4\C#\Herriepot\Herriepot\bin\Debug\net6.0-windows\Herriepot.deps.json
+D:\schoolwerk mbo4\C#\Herriepot\Herriepot\bin\Debug\net6.0-windows\Herriepot.runtimeconfig.json
+D:\schoolwerk mbo4\C#\Herriepot\Herriepot\bin\Debug\net6.0-windows\Herriepot.dll
+D:\schoolwerk mbo4\C#\Herriepot\Herriepot\bin\Debug\net6.0-windows\Herriepot.pdb
+D:\schoolwerk mbo4\C#\Herriepot\Herriepot\obj\Debug\net6.0-windows\Herriepot.Form1.resources
+D:\schoolwerk mbo4\C#\Herriepot\Herriepot\obj\Debug\net6.0-windows\Herriepot.csproj.GenerateResource.cache
+D:\schoolwerk mbo4\C#\Herriepot\Herriepot\obj\Debug\net6.0-windows\Herriepot.GeneratedMSBuildEditorConfig.editorconfig
+D:\schoolwerk mbo4\C#\Herriepot\Herriepot\obj\Debug\net6.0-windows\Herriepot.AssemblyInfoInputs.cache
+D:\schoolwerk mbo4\C#\Herriepot\Herriepot\obj\Debug\net6.0-windows\Herriepot.AssemblyInfo.cs
+D:\schoolwerk mbo4\C#\Herriepot\Herriepot\obj\Debug\net6.0-windows\Herriepot.csproj.CoreCompileInputs.cache
+D:\schoolwerk mbo4\C#\Herriepot\Herriepot\obj\Debug\net6.0-windows\Herriepot.dll
+D:\schoolwerk mbo4\C#\Herriepot\Herriepot\obj\Debug\net6.0-windows\refint\Herriepot.dll
+D:\schoolwerk mbo4\C#\Herriepot\Herriepot\obj\Debug\net6.0-windows\Herriepot.pdb
+D:\schoolwerk mbo4\C#\Herriepot\Herriepot\obj\Debug\net6.0-windows\Herriepot.genruntimeconfig.cache
+D:\schoolwerk mbo4\C#\Herriepot\Herriepot\obj\Debug\net6.0-windows\ref\Herriepot.dll

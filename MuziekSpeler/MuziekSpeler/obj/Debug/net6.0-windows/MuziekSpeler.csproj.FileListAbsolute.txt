@@ -1,0 +1,17 @@
+D:\schoolwerk mbo4\C#\MuziekSpeler\MuziekSpeler\bin\Debug\net6.0-windows\MuziekSpeler.exe
+D:\schoolwerk mbo4\C#\MuziekSpeler\MuziekSpeler\bin\Debug\net6.0-windows\MuziekSpeler.deps.json
+D:\schoolwerk mbo4\C#\MuziekSpeler\MuziekSpeler\bin\Debug\net6.0-windows\MuziekSpeler.runtimeconfig.json
+D:\schoolwerk mbo4\C#\MuziekSpeler\MuziekSpeler\bin\Debug\net6.0-windows\MuziekSpeler.dll
+D:\schoolwerk mbo4\C#\MuziekSpeler\MuziekSpeler\bin\Debug\net6.0-windows\MuziekSpeler.pdb
+D:\schoolwerk mbo4\C#\MuziekSpeler\MuziekSpeler\obj\Debug\net6.0-windows\MuziekSpeler.Form1.resources
+D:\schoolwerk mbo4\C#\MuziekSpeler\MuziekSpeler\obj\Debug\net6.0-windows\MuziekSpeler.csproj.GenerateResource.cache
+D:\schoolwerk mbo4\C#\MuziekSpeler\MuziekSpeler\obj\Debug\net6.0-windows\MuziekSpeler.GeneratedMSBuildEditorConfig.editorconfig
+D:\schoolwerk mbo4\C#\MuziekSpeler\MuziekSpeler\obj\Debug\net6.0-windows\MuziekSpeler.AssemblyInfoInputs.cache
+D:\schoolwerk mbo4\C#\MuziekSpeler\MuziekSpeler\obj\Debug\net6.0-windows\MuziekSpeler.AssemblyInfo.cs
+D:\schoolwerk mbo4\C#\MuziekSpeler\MuziekSpeler\obj\Debug\net6.0-windows\MuziekSpeler.csproj.CoreCompileInputs.cache
+D:\schoolwerk mbo4\C#\MuziekSpeler\MuziekSpeler\obj\Debug\net6.0-windows\MuziekSpeler.dll
+D:\schoolwerk mbo4\C#\MuziekSpeler\MuziekSpeler\obj\Debug\net6.0-windows\refint\MuziekSpeler.dll
+D:\schoolwerk mbo4\C#\MuziekSpeler\MuziekSpeler\obj\Debug\net6.0-windows\MuziekSpeler.pdb
+D:\schoolwerk mbo4\C#\MuziekSpeler\MuziekSpeler\obj\Debug\net6.0-windows\MuziekSpeler.genruntimeconfig.cache
+D:\schoolwerk mbo4\C#\MuziekSpeler\MuziekSpeler\obj\Debug\net6.0-windows\ref\MuziekSpeler.dll
+D:\schoolwerk mbo4\C#\MuziekSpeler\MuziekSpeler\obj\Debug\net6.0-windows\MuziekSpeler.Properties.Resources.resources

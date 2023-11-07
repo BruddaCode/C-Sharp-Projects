@@ -1,0 +1,15 @@
+/mnt/ssd/schoolwerk mbo4/C#/CookieClicker/CookieClicker/bin/Debug/net6.0/CookieClicker
+/mnt/ssd/schoolwerk mbo4/C#/CookieClicker/CookieClicker/bin/Debug/net6.0/CookieClicker.deps.json
+/mnt/ssd/schoolwerk mbo4/C#/CookieClicker/CookieClicker/bin/Debug/net6.0/CookieClicker.runtimeconfig.json
+/mnt/ssd/schoolwerk mbo4/C#/CookieClicker/CookieClicker/bin/Debug/net6.0/CookieClicker.dll
+/mnt/ssd/schoolwerk mbo4/C#/CookieClicker/CookieClicker/bin/Debug/net6.0/CookieClicker.pdb
+/mnt/ssd/schoolwerk mbo4/C#/CookieClicker/CookieClicker/obj/Debug/net6.0/CookieClicker.csproj.AssemblyReference.cache
+/mnt/ssd/schoolwerk mbo4/C#/CookieClicker/CookieClicker/obj/Debug/net6.0/CookieClicker.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/ssd/schoolwerk mbo4/C#/CookieClicker/CookieClicker/obj/Debug/net6.0/CookieClicker.AssemblyInfoInputs.cache
+/mnt/ssd/schoolwerk mbo4/C#/CookieClicker/CookieClicker/obj/Debug/net6.0/CookieClicker.AssemblyInfo.cs
+/mnt/ssd/schoolwerk mbo4/C#/CookieClicker/CookieClicker/obj/Debug/net6.0/CookieClicker.csproj.CoreCompileInputs.cache
+/mnt/ssd/schoolwerk mbo4/C#/CookieClicker/CookieClicker/obj/Debug/net6.0/CookieClicker.dll
+/mnt/ssd/schoolwerk mbo4/C#/CookieClicker/CookieClicker/obj/Debug/net6.0/refint/CookieClicker.dll
+/mnt/ssd/schoolwerk mbo4/C#/CookieClicker/CookieClicker/obj/Debug/net6.0/CookieClicker.pdb
+/mnt/ssd/schoolwerk mbo4/C#/CookieClicker/CookieClicker/obj/Debug/net6.0/CookieClicker.genruntimeconfig.cache
+/mnt/ssd/schoolwerk mbo4/C#/CookieClicker/CookieClicker/obj/Debug/net6.0/ref/CookieClicker.dll

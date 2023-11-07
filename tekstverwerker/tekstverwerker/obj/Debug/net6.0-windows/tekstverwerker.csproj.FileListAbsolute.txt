@@ -1,0 +1,17 @@
+D:\schoolwerk mbo4\C#\tekstverwerker\tekstverwerker\bin\Debug\net6.0-windows\tekstverwerker.exe
+D:\schoolwerk mbo4\C#\tekstverwerker\tekstverwerker\bin\Debug\net6.0-windows\tekstverwerker.deps.json
+D:\schoolwerk mbo4\C#\tekstverwerker\tekstverwerker\bin\Debug\net6.0-windows\tekstverwerker.runtimeconfig.json
+D:\schoolwerk mbo4\C#\tekstverwerker\tekstverwerker\bin\Debug\net6.0-windows\tekstverwerker.dll
+D:\schoolwerk mbo4\C#\tekstverwerker\tekstverwerker\bin\Debug\net6.0-windows\tekstverwerker.pdb
+D:\schoolwerk mbo4\C#\tekstverwerker\tekstverwerker\obj\Debug\net6.0-windows\tekstverwerker.Form1.resources
+D:\schoolwerk mbo4\C#\tekstverwerker\tekstverwerker\obj\Debug\net6.0-windows\tekstverwerker.Properties.Resources.resources
+D:\schoolwerk mbo4\C#\tekstverwerker\tekstverwerker\obj\Debug\net6.0-windows\tekstverwerker.csproj.GenerateResource.cache
+D:\schoolwerk mbo4\C#\tekstverwerker\tekstverwerker\obj\Debug\net6.0-windows\tekstverwerker.GeneratedMSBuildEditorConfig.editorconfig
+D:\schoolwerk mbo4\C#\tekstverwerker\tekstverwerker\obj\Debug\net6.0-windows\tekstverwerker.AssemblyInfoInputs.cache
+D:\schoolwerk mbo4\C#\tekstverwerker\tekstverwerker\obj\Debug\net6.0-windows\tekstverwerker.AssemblyInfo.cs
+D:\schoolwerk mbo4\C#\tekstverwerker\tekstverwerker\obj\Debug\net6.0-windows\tekstverwerker.csproj.CoreCompileInputs.cache
+D:\schoolwerk mbo4\C#\tekstverwerker\tekstverwerker\obj\Debug\net6.0-windows\tekstverwerker.dll
+D:\schoolwerk mbo4\C#\tekstverwerker\tekstverwerker\obj\Debug\net6.0-windows\refint\tekstverwerker.dll
+D:\schoolwerk mbo4\C#\tekstverwerker\tekstverwerker\obj\Debug\net6.0-windows\tekstverwerker.pdb
+D:\schoolwerk mbo4\C#\tekstverwerker\tekstverwerker\obj\Debug\net6.0-windows\tekstverwerker.genruntimeconfig.cache
+D:\schoolwerk mbo4\C#\tekstverwerker\tekstverwerker\obj\Debug\net6.0-windows\ref\tekstverwerker.dll

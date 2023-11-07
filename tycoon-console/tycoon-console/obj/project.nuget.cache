@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HrrhRjyIsDpwKOdtZTZEkMjhsSyB4/gPSj8QUhGIA6IpHfPcUaDCqbWa0lGiQiVDRd2Kx4puBzbyerlVzkwC8Q==",
+  "success": true,
+  "projectFilePath": "/mnt/ssd/schoolwerk mbo4/C#/tycoon-console/tycoon-console/tycoon-console.csproj",
+  "expectedPackageFiles": [
+    "/home/fabio/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.21/microsoft.netcore.app.host.linux-x64.6.0.21.nupkg.sha512"
+  ],
+  "logs": []
+}
